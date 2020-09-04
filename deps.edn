@@ -1,0 +1,6 @@
+{:aliases
+ {
+  :paths ["src/cljs"]
+
+  :deps {}
+ }
